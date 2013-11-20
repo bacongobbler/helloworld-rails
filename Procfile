@@ -1,1 +1,1 @@
-web: rails s puma --port $PORT
+web: rails s puma --port $PORT --environment=production
